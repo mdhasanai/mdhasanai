@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
-Here are some ideas to get you started:
+## About Me
 
 🎓 I'm currently pursuing my MSc in Artificial Intelligence.
 
