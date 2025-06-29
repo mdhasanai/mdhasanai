@@ -25,13 +25,13 @@ I am **Md Hasan**, a Data Scientist and AI Researcher passionate about Generativ
 - 💼 **Professional Experience:**
     <p>
       <a href="https://www.innomotics.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Siemens-logo.svg" alt="Innomotics/Siemens Logo" height="32"/>
-        Innomotics GmbH (Siemens)
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvh0G0rKcbevEV9TfsUI21Ja1kzqgV0r7-KQ&s" alt="Innomotics/Siemens Logo" height="32" style="vertical-align:middle; margin-right:8px;"/>
+        <b>Data Scientist</b> at Innomotics GmbH (Siemens)
       </a>
       <br/>
       <a href="https://www.bmwgroup.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" alt="BMW Group Logo" height="32"/>
-        BMW Group
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" alt="BMW Group Logo" height="32" style="vertical-align:middle; margin-right:8px;"/>
+        <b>Data Analytics (Working Student)</b> at BMW Group
       </a>
     </p>
 
