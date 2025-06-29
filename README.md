@@ -6,8 +6,6 @@
 <a href="https://medium.com/@ariyanhasan" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@ariyanhasan" alt="ariyanhasan"/></a>
 </p>
 
-<br />
-<br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 ---
 
@@ -25,8 +23,17 @@ I am **Md Hasan**, a Data Scientist and AI Researcher passionate about Generativ
     - MLOps, Model Deployment and AI Product Development
 
 - 💼 **Professional Experience:**
-    - Data Scientist (working student) at Innomotics GmbH (a Siemens business): Developed advanced Retrieval-Augmented Generation (RAG) applications using LLMs.
-    - Data Analytics (working student) at BMW Group: Built ETL workflows, predictive models, and data-driven solutions for business process optimization.
+    <p>
+      <a href="https://www.innomotics.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Siemens-logo.svg" alt="Innomotics/Siemens Logo" height="32"/>
+        Innomotics GmbH (Siemens)
+      </a>
+      <br/>
+      <a href="https://www.bmwgroup.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" alt="BMW Group Logo" height="32"/>
+        BMW Group
+      </a>
+    </p>
 
 - 🌍 **Previous Academic Background:**
     - MSc in Artificial Intelligence, Friedrich-Alexander University Erlangen-Nuremberg (FAU), Germany
@@ -43,4 +50,15 @@ I am **Md Hasan**, a Data Scientist and AI Researcher passionate about Generativ
     - Feel free to explore my GitHub repositories and connect with me for exciting AI projects!
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhasanai&show_icons=true&theme=radical" alt="mdhasanai's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhasanai&theme=radical" alt="mdhasanai's GitHub streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdhasanai&theme=radical" alt="mdhasanai's Contribution Graph"/>
+</p>
 
