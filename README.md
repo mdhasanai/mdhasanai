@@ -51,7 +51,7 @@ I am **Md Hasan**, a Data Scientist and AI Researcher passionate about Generativ
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdhasanai&show_icons=true&theme=radical" alt="mdhasanai's GitHub stats" width="48%"/>
@@ -60,5 +60,5 @@ I am **Md Hasan**, a Data Scientist and AI Researcher passionate about Generativ
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdhasanai&theme=radical" alt="mdhasanai's Contribution Graph"/>
-</p>
+</p> -->
 
