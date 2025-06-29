@@ -1,32 +1,43 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mdhasanai/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdhasanai/" alt="mdhasanai"/></a>
 <a href="https://twitter.com/mdhasanai" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mdhasanai" alt="mdhasanai"/></a>
 <a href="https://medium.com/@ariyanhasan" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@ariyanhasan" alt="ariyanhasan"/></a>
-
-<br />
-<br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
-## About Me
+---
 
-🎓 I'm currently pursuing my MSc in Artificial Intelligence.
+## 👋 About Me
 
-🔭 I'm passionate about Deep Learning (DL) and Large Language Models (LLMs), and I'm actively working on creating innovative AI products leveraging these technologies.
+I am **Md Hasan**, a Data Scientist and AI Researcher passionate about Generative AI (GenAI), Computer Vision, MRI Reconstruction, and MLOps.
 
-🌱 I'm on a continuous learning journey, currently focusing on mastering MLOps to streamline the deployment and management of machine learning models.
+- 🎓 **PhD Student** in Pattern Recognition Lab at Friedrich-Alexander University Erlangen-Nuremberg (FAU), Germany.
+    - **Research Topic:** Multimodal MRI Reconstruction
+    - My research focuses on developing advanced deep learning methods for reconstructing high-quality MRI images from multimodal data in medical imaging.
 
-👯 I'm always open to collaboration on exciting Deep Learning projects, especially those involving Image/Video-based detection, recognition, segmentation, and Natural Language Processing (NLP).
+- 🧑‍💻 **Expertise:**
+    - Large Language Models (LLMs), Generative AI, Multimodal Deep Learning
+    - Computer Vision, Medical Imaging, NLP
+    - MLOps, Model Deployment and AI Product Development
 
-💼 In addition to my academic pursuits, I also enjoy discussing AI ethics, the societal impact of AI, and the future of technology.
+- 💼 **Professional Experience:**
+    - Data Scientist (working student) at Innomotics GmbH (a Siemens business): Developed advanced Retrieval-Augmented Generation (RAG) applications using LLMs.
+    - Data Analytics (working student) at BMW Group: Built ETL workflows, predictive models, and data-driven solutions for business process optimization.
 
-⚡ Fun fact 1: Fun fact: I once tried to teach a neural network to make me coffee, but it just kept brewing endless cups of chaos. ☕😄
+- 🌍 **Previous Academic Background:**
+    - MSc in Artificial Intelligence, Friedrich-Alexander University Erlangen-Nuremberg (FAU), Germany
+    - Master’s thesis: Multimodal approach for automatic generation of radiology reports using chest X-ray images (FAU research funding)
 
+- 🤝 **Collaboration:**
+    - Open to research and industry collaborations in Deep Learning, Medical Imaging, and LLMs.
 
-📫 You can reach me at: mdhasan.nsu@gmail.com
-Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Let's connect and create some AI magic together! 🚀
+- ⚡ **Fun Fact:**
+    - I once tried to teach a neural network to make me coffee, but it just kept brewing endless cups of chaos. ☕😄
 
--->
+- 📫 **Contact:**
+    - Email: mdhasan.nsu@gmail.com
+    - Feel free to explore my GitHub repositories and connect with me for exciting AI projects!
+
+---
 
